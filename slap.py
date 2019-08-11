@@ -72,7 +72,7 @@ HIT = [
     "smacks",
     "bashes",
 ]
-@borg.on(admin_cmd(pattern="slap ?(.*)", allow_sudo=True))
+@borg.on(admin_cmd(pattern="slap ?(.*)"))
 async def who(event):
     if event.fwd_from:
         return
