@@ -3,7 +3,6 @@ aiohttp
 aria2p
 beautifulsoup4
 cfscrape
-cpuinfo
 cryptg
 emoji
 googletrans
@@ -14,6 +13,7 @@ hachoir
 Pillow
 psutil
 psycopg2
+py-cpuinfo
 PyGithub
 pySmartDL
 python-magic
