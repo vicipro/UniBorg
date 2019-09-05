@@ -15,6 +15,7 @@ psutil
 psycopg2
 py-cpuinfo
 PyGithub
+pymongo
 pySmartDL
 python-magic
 qrcode
